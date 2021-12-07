@@ -32,22 +32,24 @@ main{
     padding-bottom: .75rem;
     font-size: .875rem;
   }
-#golcomu{
-    width: 72%;
-}
+
 .card{
   float: left;
 }
 #card{
-  margin-left: 60px;
+  margin-left: 125px;
   margin-bottom: 15px;
   width: 100%;
 }
 #gol{
-  color: black;
+  color: rgb(0, 0, 0);
   font-size: large;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+
+
+
 /*
    * Footer
    */
